@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#629745</color>
+    <color name="colorPrimaryDark">#92c872</color>
+    <color name="colorAccent">#336919</color>
+    <color name="colorDarkGrey">#455A64</color>
+
+
+    <color name="red_text">@color/md_red_400_dark</color>
+    <color name="default_birthdays_color">@color/md_blue_800</color>
+    <color name="default_holidays_color">@color/md_green_700</color>
+    <color name="default_anniversaries_color">@color/md_red_400_dark</color>
+    <color name="Trans">#00000000</color>
+
+
+
+    <color name="topbar">#92c872</color>
+    <color name="sidebar">#336919</color>
+    <color name="calender">#629745</color>
+
+
+
+
+    <color name="fab_menu_shadow">#66000000</color>
+    <color name="text_primary_inverse">#629745</color>
+    <color name="primary">#000000</color>
+
+
+</resources>
